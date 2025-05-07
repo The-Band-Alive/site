@@ -5,4 +5,4 @@
 | Date | Title & link |
 |:------:|--------------|
 |2025년 5월 10일|[GO FOR IT](#)|
-|2025년 5월 15일|[판교역 버스킹]()|
+|2025년 5월 15일|[판교역 버스킹](https://the-band-alive.github.io/site/pangyo-busking)|
