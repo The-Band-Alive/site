@@ -11,8 +11,9 @@ body {
 
 /* Container */
 .container {
+    background-color: #5d5d5d;
     width: 90%;
-    max-width: 600px;
+    max-width: 720px;
     margin: 0 auto;
     padding: 1.25rem; /* Relative padding */
 }
